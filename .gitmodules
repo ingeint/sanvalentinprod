@@ -10,3 +10,7 @@
 	path = san_valentin_custom
 	url = git@github.com:ingeint/san_valentin_custom.git
 	branch = master
+[submodule "ingeint_multi_currency"]
+	path = ingeint_multi_currency
+	url = git@github.com:ingeint/ingeint_multi_currency.git
+	branch = master
