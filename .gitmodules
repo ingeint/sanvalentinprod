@@ -14,3 +14,7 @@
 	path = ingeint_multi_currency
 	url = git@github.com:ingeint/ingeint_multi_currency.git
 	branch = master
+[submodule "ingeint_sync_rate"]
+	path = ingeint_sync_rate
+	url = git@github.com:ingeint/ingeint_sync_rate.git
+	branch = master
