@@ -6,3 +6,7 @@
 	path = ingeint_pharmacy
 	url = git@github.com:ingeint/ingeint_pharmacy.git
 	branch = master
+[submodule "san_valentin_custom"]
+	path = san_valentin_custom
+	url = git@github.com:ingeint/san_valentin_custom.git
+	branch = master
