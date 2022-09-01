@@ -18,3 +18,7 @@
 	path = ingeint_sync_rate
 	url = git@github.com:ingeint/ingeint_sync_rate.git
 	branch = master
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = git@github.com:ingeint/purchase-workflow.git
+	branch = 15.0
